@@ -14,7 +14,7 @@ direcionando minha carreira para engenharia de dados.
 
 **Tecnologias:** Python, SQL, pandas, BeautifulSoup, matplotlib
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/renan--gs/) · [Medium](https://medium.com/@renan_gs)
+**Links:** [LinkedIn](https://www.linkedin.com/in/renan--gs/) · [Blog Medium](https://medium.com/@renan_gs)
 
 
 ## Projetos:
